@@ -390,7 +390,7 @@ function init() {
           header.style.fontSize = "100%";
           header.style.width = "388px";
           if (header.textContent.length > 50) {
-            header.style.textAlign = "justify";
+            header.style.textAlign = "left";
           }
         }
       }
